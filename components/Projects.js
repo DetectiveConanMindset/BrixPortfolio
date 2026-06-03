@@ -24,7 +24,7 @@ const projects = [
     ],
   },
   {
-    title: "Cscoach App Admin",
+    title: "CScoach App Admin",
     description:
       "A web-based Admin Control Panel for the Civil Service Reviewer platform. It enables administrators to manage exam content in real-time, supports single and bulk CSV question uploading, and features a robust Question Bank Manager to categorize items by civil service topics, difficulty levels, and sources.",
     "tech": ["React", "Firebase (Auth & Firestore)", "Bootstrap", "PapaParse"],
@@ -32,13 +32,13 @@ const projects = [
     accentLight: "rgba(34,197,94,0.08)",
     codeLink: "https://github.com/DetectiveConanMindset/CsCoach-Admin",
     uiLink: "#",
-    logo: "/images/CscoachAdmin/6.png",
+    logo: "/images/CsCoachAdmin/6.png",
     gallery: [
-      "/images/CscoachAdmin/1.png",
-      "/images/CscoachAdmin/2.png",
-      "/images/CscoachAdmin/3.png",
-      "/images/CscoachAdmin/4.png",
-      "/images/CscoachAdmin/5.png",
+      "/images/CsCoachAdmin/1.png",
+      "/images/CsCoachAdmin/2.png",
+      "/images/CsCoachAdmin/3.png",
+      "/images/CsCoachAdmin/4.png",
+      "/images/CsCoachAdmin/5.png",
     ],
   },
   {

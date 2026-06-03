@@ -294,7 +294,7 @@ export default function Hero() {
               }}
             />
             <img
-              src="/images/profile1.jpg" 
+              src="/images/profile1.JPG" 
               alt="Anthon Brix Timbal"
               style={{
                 width: "100%",
